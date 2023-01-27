@@ -108,7 +108,7 @@ def main():
                     st.download_button('Download Model', f, file_name="best_class_model.pkl")
     
     else:
-        st.image("home-image.png")
+        st.image("https://github.com/JosueAfouda/JoshAutoML/raw/main/home-image.png")
 
 if __name__=='__main__':
     main()
