@@ -21,3 +21,7 @@ When the model is built, you can view the results like the pipeline model, Resid
 Do you want to learn Data Apps Development with Streamlit ? You can check my streamlit training videos on my YouTube channel : [My playlist Streamlit Python](https://youtube.com/playlist?list=PLmJWMf9F8euQKADN-mSCpTlp7uYDyCQNF)
 
 4 videos that can help you get started with PyCaret : [My playlist PyCaret](https://youtube.com/playlist?list=PLmJWMf9F8euSWf5Bob7hZE59MYGmebdHa)
+
+Please subscribe to my [YouTube channel](https://www.youtube.com/channel/UCpd56FfjlkKbkHlbgY6XE3w) for more free contents on Data Science.
+
+Follow me on [Linkedin](https://www.linkedin.com/in/josu%C3%A9-afouda/)
