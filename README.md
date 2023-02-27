@@ -1,3 +1,5 @@
+![](home-image.png)
+
 **This web app is a No-Code tool for Exploratory Data Analysis and building Machine Learning model for Regression and Classification tasks.**
 
 I used PyCaret and Streamlit.
